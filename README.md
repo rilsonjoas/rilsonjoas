@@ -1,8 +1,17 @@
 ## Hello, there! Eu sou Rilson Joás, e sou aprendiz de desenvolvimento front-end!
 <div align="left">
   <a href="https://github.com/narniano">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=narniano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narniano&layout=compact&langs_count=7&theme=github_dark"/>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=narniano&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=narniano&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=narniano&show_icons=true" />
+</picture>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="narniano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
