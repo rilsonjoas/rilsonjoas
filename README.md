@@ -1,10 +1,4 @@
 ## Hello, there! Eu sou Rilson Joás, e sou aprendiz de desenvolvimento front-end!
-<div align="left">
-  <a href="https://github.com/narniano">
-  <picture>
-  ![Narniano's GitHub stats](https://github-readme-stats.vercel.app/api?username=narniano&show_icons=true&theme=transparent)
-</picture>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="narniano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="narniano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
