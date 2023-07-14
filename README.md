@@ -1,4 +1,7 @@
 ## Hello, there! Eu sou Rilson Joás, e sou aprendiz de desenvolvimento front-end!
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64602a63d37a0a94f7275d91?variant=dark&roadmaps=javascript%2Cfrontend)](https://roadmap.sh)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="narniano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="narniano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
