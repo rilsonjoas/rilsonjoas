@@ -24,7 +24,7 @@ Full Stack Developer from Recife-PE, Brazil. Graduating at Computer Science. My 
 
 ##
 
-### Connect with me
+### Connect with me 
  
 <div> 
   <a href="https://www.linkedin.com/in/rilson-guedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" target="_blank"></a> 
