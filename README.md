@@ -32,3 +32,5 @@ Full Stack Developer from Recife-PE, Brazil. Graduating at Computer Science. My 
   <a href="https://www.instagram.com/rilsonjoas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=blue" target="_blank"></a>
   <a href = "mailto:rilsonjoas10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=blue" target="_blank"></a>
 </div>
+
+[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
