@@ -2,7 +2,7 @@
 
 <img align="right" alt="Octocat do Rilson" height="380" src="./octocat.png">
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64602a63d37a0a94f7275d91?variant=dark&roadmaps=frontend%2Cjavascript%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64602a63d37a0a94f7275d91?variant=dark&roadmaps=frontend%2Cjavascript%2Creact%2Csql%2Clinux)](https://roadmap.sh)
 
 ##
 
